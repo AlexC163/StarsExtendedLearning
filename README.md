@@ -21,3 +21,8 @@ With my graph, you can visualize the relations through different stars. My graph
 ![graphImage2](https://user-images.githubusercontent.com/95631939/206892115-2aaa9a5d-49a9-47ca-822c-2e4e2411bb2e.png)
 ![graphImage3](https://user-images.githubusercontent.com/95631939/206892117-d10291a3-5d1b-4c19-8264-3738380ac1f5.png)
 ![graphImage4](https://user-images.githubusercontent.com/95631939/206892121-456ff7a6-5bbd-4bff-ada0-e8b365864461.png)
+
+
+### Set up
+
+   pip install matplotlib
