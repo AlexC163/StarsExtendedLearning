@@ -25,4 +25,4 @@ With my graph, you can visualize the relations through different stars. My graph
 
 ### Set up
 
-   pip install matplotlib
+       pip install matplotlib
