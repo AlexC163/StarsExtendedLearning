@@ -1,6 +1,6 @@
 # StarsExtendedLearning
 
-##Essay regarding the graph
+## Essay regarding the graph
 
   A Hertzsprung-Russell (or H-R) diagram is used to organize the life cycle of a star through the relationship between a star’s luminosity and a star’s surface temperature. By plotting many stars on this graph, we can then find similarities between stars in the same class and ultimately use the H-R diagram to map out the life cycle of a star.
   
