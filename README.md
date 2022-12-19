@@ -14,6 +14,8 @@ The final component of my project is the tools and resources used to implement t
 I was persistent, constantly learning new information concerning my graph, and how I could not only optimize it on the backend but also make it visually appealing. And that takes us to where we are now.
 With my graph, you can visualize the relations through different stars. My graph takes a step beyond the Hertzberg-Russell diagram - stepping into the third dimension. As seen in the below images, the stars in the same classes are near each other - which shows that they have relations to one another. Although I used surface temperature, luminosity, and radial velocity as the factors, this could easily be implemented with many different factors. While some stars are astray, in general, there is a clear pattern to stars in the same class.
 
+With my graph, you can visualize the relations through different stars. My graph takes a step beyond the Hertzberg-Russell diagram - stepping into the third dimension. As seen in the below images, the stars in the same classes are near each other - which shows that they have relations to one another. Although I used surface temperature, luminosity, radial velocity, mass, and solar radius as the factors, this could easily be implemented with many other factors as well. While some stars are astray, in general, there is a clear pattern to stars in the same class.
+
 
 ## Code output (Graph Images)
 
