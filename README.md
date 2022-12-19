@@ -23,7 +23,7 @@ With my graph, you can visualize the relations through different stars. My graph
 ![masses](https://user-images.githubusercontent.com/95631939/208335653-d9655e5c-17e9-4fc2-aa9c-ec6bbe868647.png)
 ![solar_radii](https://user-images.githubusercontent.com/95631939/208335662-99a816a8-c296-471b-918f-22071da08bee.png)
 
-*NOTE: The reason for different axis as different labels is only due to the orientation of the graph in order to allow for viewing to be as easy as possible
+###### *NOTE: The reason for different axis as different labels is only due to the orientation of the graph in order to allow for viewing to be as easy as possible
 
 
 ### Set up
