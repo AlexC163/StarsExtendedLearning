@@ -17,10 +17,9 @@ With my graph, you can visualize the relations through different stars. My graph
 
 ## Code output (Graph Images)
 
-![graphImage1](https://user-images.githubusercontent.com/95631939/206892113-c5a97fbc-0a49-4b5e-968a-ac7159c84a72.png)
-![graphImage2](https://user-images.githubusercontent.com/95631939/206892115-2aaa9a5d-49a9-47ca-822c-2e4e2411bb2e.png)
-![graphImage3](https://user-images.githubusercontent.com/95631939/206892117-d10291a3-5d1b-4c19-8264-3738380ac1f5.png)
-![graphImage4](https://user-images.githubusercontent.com/95631939/206892121-456ff7a6-5bbd-4bff-ada0-e8b365864461.png)
+![radial_velocity](https://user-images.githubusercontent.com/95631939/208335651-4923e775-83cf-4795-a343-1976e632a965.png)
+![masses](https://user-images.githubusercontent.com/95631939/208335653-d9655e5c-17e9-4fc2-aa9c-ec6bbe868647.png)
+![solar_radii](https://user-images.githubusercontent.com/95631939/208335662-99a816a8-c296-471b-918f-22071da08bee.png)
 
 
 ### Set up
